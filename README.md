@@ -1,3 +1,4 @@
+
 <h2>Project Overview</h2>
 <p>This project involves the analysis of an e-commerce dataset using SQL for data extraction and Power BI for visualization. The dataset consists of three tables: <code>order_details</code>, <code>order</code>, and <code>salestarget</code>. The goal of this project was to analyze geographical, categorical, sales target, and time-based data, and to use these insights to create an interactive dashboard in Power BI. Additionally, key performance indicators (KPIs) were researched, and forecasting was performed for future profits and amounts earned.</p>
 
@@ -38,7 +39,6 @@
 
 <h2>SQL Queries Used</h2>
 <p>Four SQL queries were designed to extract insights for specific aspects of the data:</p>
-
 <ol>
     <li><strong>Geographical Data Analysis</strong>
         <ul>
@@ -70,7 +70,6 @@
 
 <h2>Power BI Dashboard</h2>
 <p>The SQL query results were used to create an interactive Power BI dashboard. The dashboard includes the following features:</p>
-
 <h3>Visualizations:</h3>
 <ul>
     <li><strong>Total Metrics:</strong>
@@ -106,11 +105,37 @@
 
 <h2>Key Insights</h2>
 <ol>
-    <li><strong>Top Categories and Sub-Categories:</strong> Identified the most and least profitable categories and sub-categories.</li>
-    <li><strong>Geographical Trends:</strong> Highlighted states with the highest and lowest profit contributions.</li>
-    <li><strong>Sales Target Performance:</strong> Detailed comparison of actual sales vs. targets by month and category.</li>
-    <li><strong>Seasonal Patterns:</strong> Clear trends showing peak sales periods and low-performing months.</li>
-    <li><strong>Forecasting:</strong> Predicted profits and sales for the next three months to assist in strategic planning.</li>
+    <li><strong>Top Categories and Sub-Categories:</strong>
+        <ul>
+            <li><strong>Clothing:</strong> The most profitable category was <strong>Trousers</strong>, while <strong>Kurti</strong> showed the lowest profitability.</li>
+            <li><strong>Electronics:</strong> <strong>Printers</strong> emerged as the highest-performing category, while <strong>Video Games</strong> had the lowest profitability.</li>
+            <li><strong>Furniture:</strong> <strong>Bookcases</strong> ranked as the top-performing category, whereas <strong>Tables</strong> were the least profitable.</li>
+        </ul>
+    </li>
+    <li><strong>Geographical Trends:</strong>
+        <ul>
+            <li><strong>Clothing:</strong> Maharashtra was the most profitable state, while Karnataka had the lowest profit.</li>
+            <li><strong>Electronics:</strong> The highest profitability was observed in Madhya Pradesh, while Punjab showed the lowest profitability.</li>
+            <li><strong>Furniture:</strong> Maharashtra led in profitability, while Tamil Nadu and Andhra Pradesh had the lowest profits.</li>
+        </ul>
+    </li>
+    <li><strong>Sales Target Performance:</strong>
+        <ul>
+            <li><strong>Clothing:</strong> Targets were met in <strong>Nov 2018</strong> and <strong>Mar 2019</strong>.</li>
+            <li><strong>Electronics:</strong> Sales targets were achieved in <strong>May, June, August, October, November 2018</strong> and <strong>January, March 2019</strong>.</li>
+            <li><strong>Furniture:</strong> Targets were met in <strong>Nov 2018</strong> and <strong>Jan, Feb, March 2019</strong>.</li>
+        </ul>
+    </li>
+    <li><strong>Seasonal Patterns:</strong>
+        <ul>
+            <li>Identified key months with high sales performance and others with weaker results, enabling targeted strategies to boost sales during low periods.</li>
+        </ul>
+    </li>
+    <li><strong>Forecasting:</strong>
+        <ul>
+            <li>Predicted future profits and sales for the next three months, aiding in strategic planning for inventory and sales optimization.</li>
+        </ul>
+    </li>
 </ol>
 
 <hr>
@@ -166,5 +191,6 @@
 <p><strong>Sachin</strong></p>
 <ul>
     <li><strong>Contact:</strong> sachinbhandari1304@gmail.com</li>
-    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sachin-bhandari-22a80a1b8/">[Contact on Linkedin]</a></li>
+    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sachin-bhandari-22a80a1b8/">Contact on LinkedIn</a></li>
 </ul>
+```
